@@ -9,7 +9,7 @@ Pós graduada em DevOps, atuando como SRE junior.
 
 🧠 Estou aprendendo sobre AWS
 
-⚡️ Um fato: Sou advogada especialista em compliance, porém, como sempre amei tecnologia, decidi que era hora de novos desafios e realizei a transição de carreira para tech. Desbravamendo esse mundo infinito de possibilidades e encantada como a tecnologia pode ser incrível em todos os âmbitos!
+⚡️ Um fato: Sou advogada especialista em compliance, porém, como sempre amei tecnologia, decidi que era hora de novos desafios e realizei a transição de carreira para tech. Desbravando esse mundo infinito de possibilidades e encantada como a tecnologia pode ser incrível em todos os âmbitos!
 
 ## 🔗 Contato
 
