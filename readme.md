@@ -9,8 +9,7 @@ Pós graduada em DevOps, atuando como SRE junior.
 
 🧠 Estou aprendendo sobre AWS
 
-⚡️ Um fato: Sou advogada especialista em compliance, porém, como sempre amei tecnologia, decidi que era hora de novos desafios e realizei a transição de carreira para tech. Desbravando esse mundo infinito de possibilidades e encantada como a tecnologia pode ser incrível em todos os âmbitos!
-
+⚡️ Um fato: Sou advogada especialista em compliance, porém, como sempre amei tecnologia, decidi que era hora de novos desafios e conclui a transição de carreira para tech. Atuamente, pós graduada em DevOps.
 ## 🔗 Contato
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nicolepereiraprimo)
