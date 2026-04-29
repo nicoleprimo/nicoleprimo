@@ -3,12 +3,7 @@
 
 ## 🚀 Sobre mim
 
-Estudando cybersecurity e atuando como SRE junior.
-
-👩‍💻 Trabalho atualmente na @Dafiti
-
-
-⚡️ Um fato: Sou advogada especialista em compliance, porém, como sempre amei tecnologia, decidi que era hora de novos desafios e conclui a transição de carreira para tech. Atuamente, pós graduanda em CyberSecurity.
+Estudando cybersecurity 
 
 ## 🔗 Contato
 
